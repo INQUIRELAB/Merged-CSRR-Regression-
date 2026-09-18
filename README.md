@@ -214,3 +214,7 @@ If you use this dataset in a report, thesis, or follow-up paper, cite the associ
 
 ## 13. Short summary
 This dataset is a **simulation-derived regression dataset** for a **dual-band THz metamaterial absorber**. It connects **resonator geometry** to **two resonance locations** and **their absorption amplitudes**, and it was used for both **forward prediction** and **inverse redesign** in the associated paper.
+
+## License scope
+
+Original INQUIRE Lab code is licensed under PolyForm Noncommercial License 1.0.0. Original INQUIRE Lab datasets, figures, and documentation are licensed under CC BY-NC 4.0. See [LICENSE](LICENSE) for scope and the full license texts. Materials from other rights holders retain their original terms.
